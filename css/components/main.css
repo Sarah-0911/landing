@@ -1,0 +1,20 @@
+.main {
+  margin: 0 auto;
+  text-align: center;
+  margin-bottom: 40px;
+}
+
+.flex-container {
+  display: flex;
+  justify-content: center;
+  gap: 40px;
+}
+
+.flex-container .flex-item {
+  box-shadow: 0 0 8px grey;
+}
+
+.main img {
+  width: 260px;
+  height: 220px;
+}

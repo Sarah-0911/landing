@@ -1,0 +1,26 @@
+.footer {
+  color: white;
+  background-color: #16253b;
+  height: 200px;
+}
+
+.footer ul {
+  list-style: none;
+  display: flex;
+  color: white;
+  justify-content: center;
+  gap: 40px;
+  font-size: 40px;
+  padding-top: 30px;
+}
+
+.footer i {
+  color: white;
+}
+
+.footer p {
+  text-align: center;
+  font-size: 1.2em;
+  letter-spacing: .07em;
+  font-weight: 500;
+}
